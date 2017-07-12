@@ -19,7 +19,7 @@ Try this is a simple [React](https://facebook.github.io/react/), [Webpack](http:
 * Fork and clone the project:
 
 ```
-git clone https://github.com/alicoding/react-webpack-babel.git
+git clone git@github.com:kenjiyamamoto/react-webpack-babel.git
 ```
 
 * Then install the dependencies:
